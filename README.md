@@ -1,4 +1,4 @@
-##🎙️ Assistente de Voz com IA
+###🎙️ Assistente de Voz com IA###
 
 Projeto de assistente de voz que grava áudio, transcreve com Whisper, gera respostas com IA e sintetiza a resposta em voz.
 🔄 Fluxo do Projeto
